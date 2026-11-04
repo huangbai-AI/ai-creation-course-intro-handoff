@@ -1,0 +1,612 @@
+[
+  {
+    "start_frame": 0,
+    "end_frame": 45,
+    "start": 0.0,
+    "end": 1.5,
+    "image": "01_1",
+    "shot": "01",
+    "action": "两人一起看监视器",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 45,
+    "end_frame": 73,
+    "start": 1.5,
+    "end": 2.433333333333333,
+    "image": "01_2",
+    "shot": "02",
+    "action": "看清屏幕里的小产品",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 73,
+    "end_frame": 115,
+    "start": 2.433333333333333,
+    "end": 3.8333333333333335,
+    "image": "01_3",
+    "shot": "03",
+    "action": "导演顶回来",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 115,
+    "end_frame": 150,
+    "start": 3.8333333333333335,
+    "end": 5.0,
+    "image": "01_4",
+    "shot": "04",
+    "action": "比划时被吸住",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 150,
+    "end_frame": 178,
+    "start": 5.0,
+    "end": 5.933333333333334,
+    "image": "02_1",
+    "shot": "04",
+    "action": "同一动作：身体失衡",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 178,
+    "end_frame": 214,
+    "start": 5.933333333333334,
+    "end": 7.133333333333334,
+    "image": "02_2",
+    "shot": "04",
+    "action": "同一动作：缩入屏幕",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 214,
+    "end_frame": 242,
+    "start": 7.133333333333334,
+    "end": 8.066666666666666,
+    "image": "02_3",
+    "shot": "05",
+    "action": "落地",
+    "kind": "occlusion"
+  },
+  {
+    "start_frame": 242,
+    "end_frame": 312,
+    "start": 8.066666666666666,
+    "end": 10.4,
+    "image": "02_4",
+    "shot": "05",
+    "action": "同镜头：站起看见巨杯",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 312,
+    "end_frame": 340,
+    "start": 10.4,
+    "end": 11.333333333333334,
+    "image": "03_1",
+    "shot": "06",
+    "action": "柠檬坠落，出口同框",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 340,
+    "end_frame": 369,
+    "start": 11.333333333333334,
+    "end": 12.3,
+    "image": "03_2",
+    "shot": "06",
+    "action": "同镜头：着地弹起，立即跑",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 369,
+    "end_frame": 425,
+    "start": 12.3,
+    "end": 14.166666666666666,
+    "image": "03_3",
+    "shot": "07",
+    "action": "被追着跑向杯柄",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 425,
+    "end_frame": 512,
+    "start": 14.166666666666666,
+    "end": 17.066666666666666,
+    "image": "03_4",
+    "shot": "07",
+    "action": "同镜头：缩肩穿孔",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 512,
+    "end_frame": 569,
+    "start": 17.066666666666666,
+    "end": 18.966666666666665,
+    "image": "04_1",
+    "shot": "08",
+    "action": "全身格挡",
+    "kind": "occlusion"
+  },
+  {
+    "start_frame": 569,
+    "end_frame": 611,
+    "start": 18.966666666666665,
+    "end": 20.366666666666667,
+    "image": "04_2",
+    "shot": "08",
+    "action": "同镜头：侧身闪过横扫",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 611,
+    "end_frame": 639,
+    "start": 20.366666666666667,
+    "end": 21.3,
+    "image": "04_3",
+    "shot": "08",
+    "action": "同镜头：反刺被拨开",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 639,
+    "end_frame": 681,
+    "start": 21.3,
+    "end": 22.7,
+    "image": "04_4",
+    "shot": "09",
+    "action": "吃力，余光找到黑帘",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 681,
+    "end_frame": 723,
+    "start": 22.7,
+    "end": 24.1,
+    "image": "05_1",
+    "shot": "10",
+    "action": "脱离交战，跑向黑帘",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 723,
+    "end_frame": 765,
+    "start": 24.1,
+    "end": 25.5,
+    "image": "05_2",
+    "shot": "10",
+    "action": "同镜头：掀帘，右手持剑",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 765,
+    "end_frame": 808,
+    "start": 25.5,
+    "end": 26.933333333333334,
+    "image": "05_3",
+    "shot": "10",
+    "action": "同镜头：出帘换装，剑变麦",
+    "kind": "occlusion"
+  },
+  {
+    "start_frame": 808,
+    "end_frame": 892,
+    "start": 26.933333333333334,
+    "end": 29.733333333333334,
+    "image": "05_4",
+    "shot": "11",
+    "action": "落脚直接开唱",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 892,
+    "end_frame": 920,
+    "start": 29.733333333333334,
+    "end": 30.666666666666668,
+    "image": "06_2",
+    "shot": "12",
+    "action": "观众反打，歌声继续",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 920,
+    "end_frame": 1033,
+    "start": 30.666666666666668,
+    "end": 34.43333333333333,
+    "image": "06_1",
+    "shot": "13",
+    "action": "第二句英文演唱",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 1033,
+    "end_frame": 1061,
+    "start": 34.43333333333333,
+    "end": 35.36666666666667,
+    "image": "06_3",
+    "shot": "14",
+    "action": "完整舞步：侧迈斜推",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 1061,
+    "end_frame": 1089,
+    "start": 35.36666666666667,
+    "end": 36.3,
+    "image": "06_4",
+    "shot": "14",
+    "action": "同镜头：交叉步肩击",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 1089,
+    "end_frame": 1118,
+    "start": 36.3,
+    "end": 37.266666666666666,
+    "image": "06_2",
+    "shot": "15",
+    "action": "观众回应舞步",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 1118,
+    "end_frame": 1159,
+    "start": 37.266666666666666,
+    "end": 38.63333333333333,
+    "image": "06_4",
+    "shot": "16",
+    "action": "全身动作再次推进",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 1159,
+    "end_frame": 1202,
+    "start": 38.63333333333333,
+    "end": 40.06666666666667,
+    "image": "07_1",
+    "shot": "16",
+    "action": "同镜头：踏步收势",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 1202,
+    "end_frame": 1230,
+    "start": 40.06666666666667,
+    "end": 41.0,
+    "image": "07_2",
+    "shot": "17",
+    "action": "相机绕左侧，人不转身",
+    "kind": "cut"
+  },
+  {
+    "start_frame": 1230,
+    "end_frame": 1258,
+    "start": 41.0,
+    "end": 41.93333333333333,
+    "image": "07_3",
+    "shot": "17",
+    "action": "同镜头：正背面头肩落稳",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 1258,
+    "end_frame": 1286,
+    "start": 41.93333333333333,
+    "end": 42.86666666666667,
+    "image": "07_4",
+    "shot": "18",
+    "action": "太空停两拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1286,
+    "end_frame": 1313,
+    "start": 42.86666666666667,
+    "end": 43.766666666666666,
+    "image": "08_1",
+    "shot": "19.01",
+    "action": "霓虹雨街 · 2拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1313,
+    "end_frame": 1342,
+    "start": 43.766666666666666,
+    "end": 44.733333333333334,
+    "image": "08_2",
+    "shot": "19.02",
+    "action": "古装长廊 · 2拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1342,
+    "end_frame": 1356,
+    "start": 44.733333333333334,
+    "end": 45.2,
+    "image": "08_3",
+    "shot": "19.03",
+    "action": "橙色巨杯 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1356,
+    "end_frame": 1370,
+    "start": 45.2,
+    "end": 45.666666666666664,
+    "image": "08_4",
+    "shot": "19.04",
+    "action": "摄影棚 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1370,
+    "end_frame": 1384,
+    "start": 45.666666666666664,
+    "end": 46.13333333333333,
+    "image": "09_1",
+    "shot": "19.05",
+    "action": "未来通道 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1384,
+    "end_frame": 1398,
+    "start": 46.13333333333333,
+    "end": 46.6,
+    "image": "09_2",
+    "shot": "19.06",
+    "action": "竹林 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1398,
+    "end_frame": 1412,
+    "start": 46.6,
+    "end": 47.06666666666667,
+    "image": "09_3",
+    "shot": "19.07",
+    "action": "沙漠 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1412,
+    "end_frame": 1427,
+    "start": 47.06666666666667,
+    "end": 47.56666666666667,
+    "image": "09_4",
+    "shot": "19.08",
+    "action": "舞台 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1427,
+    "end_frame": 1441,
+    "start": 47.56666666666667,
+    "end": 48.03333333333333,
+    "image": "08_1",
+    "shot": "19.09",
+    "action": "霓虹雨街 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1441,
+    "end_frame": 1454,
+    "start": 48.03333333333333,
+    "end": 48.46666666666667,
+    "image": "08_2",
+    "shot": "19.10",
+    "action": "古装长廊 · 1拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1454,
+    "end_frame": 1462,
+    "start": 48.46666666666667,
+    "end": 48.733333333333334,
+    "image": "08_3",
+    "shot": "19.11",
+    "action": "橙色巨杯 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1462,
+    "end_frame": 1469,
+    "start": 48.733333333333334,
+    "end": 48.96666666666667,
+    "image": "08_4",
+    "shot": "19.12",
+    "action": "摄影棚 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1469,
+    "end_frame": 1476,
+    "start": 48.96666666666667,
+    "end": 49.2,
+    "image": "09_1",
+    "shot": "19.13",
+    "action": "未来通道 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1476,
+    "end_frame": 1483,
+    "start": 49.2,
+    "end": 49.43333333333333,
+    "image": "09_2",
+    "shot": "19.14",
+    "action": "竹林 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1483,
+    "end_frame": 1490,
+    "start": 49.43333333333333,
+    "end": 49.666666666666664,
+    "image": "09_3",
+    "shot": "19.15",
+    "action": "沙漠 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1490,
+    "end_frame": 1497,
+    "start": 49.666666666666664,
+    "end": 49.9,
+    "image": "09_4",
+    "shot": "19.16",
+    "action": "舞台 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1497,
+    "end_frame": 1504,
+    "start": 49.9,
+    "end": 50.13333333333333,
+    "image": "08_1",
+    "shot": "19.17",
+    "action": "霓虹雨街 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1504,
+    "end_frame": 1511,
+    "start": 50.13333333333333,
+    "end": 50.36666666666667,
+    "image": "08_2",
+    "shot": "19.18",
+    "action": "古装长廊 · 0.5拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1511,
+    "end_frame": 1514,
+    "start": 50.36666666666667,
+    "end": 50.46666666666667,
+    "image": "08_3",
+    "shot": "19.19",
+    "action": "橙色巨杯 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1514,
+    "end_frame": 1518,
+    "start": 50.46666666666667,
+    "end": 50.6,
+    "image": "08_4",
+    "shot": "19.20",
+    "action": "摄影棚 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1518,
+    "end_frame": 1522,
+    "start": 50.6,
+    "end": 50.733333333333334,
+    "image": "09_1",
+    "shot": "19.21",
+    "action": "未来通道 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1522,
+    "end_frame": 1525,
+    "start": 50.733333333333334,
+    "end": 50.833333333333336,
+    "image": "09_2",
+    "shot": "19.22",
+    "action": "竹林 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1525,
+    "end_frame": 1529,
+    "start": 50.833333333333336,
+    "end": 50.96666666666667,
+    "image": "09_3",
+    "shot": "19.23",
+    "action": "沙漠 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1529,
+    "end_frame": 1532,
+    "start": 50.96666666666667,
+    "end": 51.06666666666667,
+    "image": "09_4",
+    "shot": "19.24",
+    "action": "舞台 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1532,
+    "end_frame": 1536,
+    "start": 51.06666666666667,
+    "end": 51.2,
+    "image": "08_1",
+    "shot": "19.25",
+    "action": "霓虹雨街 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1536,
+    "end_frame": 1539,
+    "start": 51.2,
+    "end": 51.3,
+    "image": "08_2",
+    "shot": "19.26",
+    "action": "古装长廊 · 0.25拍",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1539,
+    "end_frame": 1567,
+    "start": 51.3,
+    "end": 52.233333333333334,
+    "image": "10_1",
+    "shot": "20",
+    "action": "回课堂，屈膝坐下",
+    "kind": "match"
+  },
+  {
+    "start_frame": 1567,
+    "end_frame": 1609,
+    "start": 52.233333333333334,
+    "end": 53.63333333333333,
+    "image": "10_2",
+    "shot": "21",
+    "action": "相机绕到左侧",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 1609,
+    "end_frame": 1637,
+    "start": 53.63333333333333,
+    "end": 54.56666666666667,
+    "image": "10_3",
+    "shot": "21",
+    "action": "同镜头：相机到前侧",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 1637,
+    "end_frame": 1676,
+    "start": 54.56666666666667,
+    "end": 55.86666666666667,
+    "image": "10_4",
+    "shot": "21",
+    "action": "同镜头：正面落稳，准备接实拍",
+    "kind": "phase"
+  },
+  {
+    "start_frame": 1676,
+    "end_frame": 1800,
+    "start": 55.86666666666667,
+    "end": 60.0,
+    "image": "real",
+    "shot": "22",
+    "action": "本人实拍，只用前两句",
+    "kind": "cut"
+  }
+]

@@ -1,0 +1,637 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 106,
+    "sha256": "93db7807bd52b0e7ab59c71b0d9c6b8904adfe3b01d5b0424834f298e1a2c51a"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 975,
+    "sha256": "2dcb1eaeb9912054c96f1aaedc857c7ce717a16b3b287c3274afee7f4a56d9ce"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3251,
+    "sha256": "84b89a229b22ceabf87c442b1fd6110121d2721a59be10f2692ae08cdda1a7a7"
+  },
+  {
+    "path": "handoff/HANDOFF.md",
+    "bytes": 20293,
+    "sha256": "ccafdd59346beea2c4cf45ce70584421fc67a936a86ec77609d5dd4c3e4ccc82"
+  },
+  {
+    "path": "handoff/第十一版脚本_完整可读副本.md",
+    "bytes": 19750,
+    "sha256": "544861446449b398d2244f061cd68c74dd211da8994e0e6042f8d6ea8515e045"
+  },
+  {
+    "path": "handoff/第十二版实际剪辑对照.md",
+    "bytes": 3603,
+    "sha256": "9b0e89a1372afd5fa52db8174bf743053f72679213c6c2768f0ea077a1cb5d97"
+  },
+  {
+    "path": "handoff/素材与记录索引.json",
+    "bytes": 11286,
+    "sha256": "91cd521199d8fa25cf61b479064666641ecf3853733fcdd24a5107d8e101116d"
+  },
+  {
+    "path": "outputs/片头第八版_音乐试听/03_Mureka_电子追逐_提示词.txt",
+    "bytes": 1342,
+    "sha256": "ffab7764afe87bc8b34c1f6fae472c587679c472907f053fd1ca764172890cc0"
+  },
+  {
+    "path": "outputs/片头第八版_音乐试听/原始音乐/八版BGM_03_Mureka_电子追逐.mp3",
+    "bytes": 5433698,
+    "sha256": "b56e303e3726d97282945cd2b6d8a1c3bed51b1db732b03d36ad70fdd06a9afc"
+  },
+  {
+    "path": "outputs/片头第八版_音乐试听/试听音乐/03_Mureka_电子追逐_60秒试听.mp3",
+    "bytes": 1441561,
+    "sha256": "f9088603833dcd3ed22bdb1a4bef981b5afa7b4d423c60fb67fcf1590ecbd9cb"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/AI创作全能课_第十一版_动态分镜小样.mp4",
+    "bytes": 48475604,
+    "sha256": "1ed2365421ef3ebdc7765c15c03833595afc898b9eb379d8e440bc11f98233bc"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_01_同侧看屏幕争执.png",
+    "bytes": 3113814,
+    "sha256": "9e2caa8538163fea542199a23c7e157cb0556319830cfd20237b0ccd167b9166"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_02_吸入与巨杯揭晓.png",
+    "bytes": 2866722,
+    "sha256": "b3a2e4d89726c5fa9f038369b0b7a1a81a3073518fe271bd720a8825a28feb55"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_03_柠檬危机与杯柄逃跑.png",
+    "bytes": 3487000,
+    "sha256": "f8131b8e8393220c4cd9c20146cafa50ea587fe41a82001cf6aa0853cbdab202"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_04_古装完整攻防.png",
+    "bytes": 3225154,
+    "sha256": "b677f2d87ce80d6583c44b1a8bc16c9ebeb190f7be5d5926e6dec864c2b32135"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_05_穿帘立即开唱.png",
+    "bytes": 3304691,
+    "sha256": "c86a6b0a6d57579c9cf686a710dd2e0858f9e6b140e8c2ce522d8bae2131c9ed"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_06_英文演唱与舞台回应.png",
+    "bytes": 3223719,
+    "sha256": "3d4093a37f859aa057f892f6c5323f7312be799548a057186d5fac535bf7525d"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_07_舞台绕背与太空停顿.png",
+    "bytes": 3426297,
+    "sha256": "3125b9418ce57b4be7a3a493f922c106f9c192f1959ff128353c42b11d7a12e8"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_08_同构图换装一.png",
+    "bytes": 3076234,
+    "sha256": "8b32f6ad8e6cefcb396b46c7b48e8590c5a464ba208340c049c6794835ba9bbe"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_09_同构图换装二.png",
+    "bytes": 3392806,
+    "sha256": "8b9886c97fe037803f35530cba06b9d2d8ac5620a4727921041a3f408ea0e7ff"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_10_课堂相机绕行.png",
+    "bytes": 3036609,
+    "sha256": "5457f1fc1a9d3a7a5fd9990f035ad43a2b4584fea4001e040a10b81df411d9e8"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A01_英文两句清唱.mp3",
+    "bytes": 480697,
+    "sha256": "1b99f23d173b8ecb06205218b5dcdf56f92a55637bca174e60c537f1c2c8b9c6"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A02_黄白开场.wav",
+    "bytes": 265004,
+    "sha256": "87a442453f689e078d35263557a5c2d877fd4178c9a16b16cc382e1dcbd9eb1e"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A03_导演顶回来.wav",
+    "bytes": 422444,
+    "sha256": "c5cdd6c57f29361cc7f0afdde6238803680dcb032339b1b0261e317b444b634b"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A04_黄白比划.wav",
+    "bytes": 192044,
+    "sha256": "9aeea824753ab58aa0f71052abaeda0919de5c2e0e9a80c6f7125895cb255a8c"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A05_黄白惊呆.wav",
+    "bytes": 307244,
+    "sha256": "0d7cb794f24906d0cd3dc945bc93a9ff992cc41f2b174e86cf4923734c954d53"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A06_英文清唱重做.mp3",
+    "bytes": 479861,
+    "sha256": "72fdd0b16c9f24ec830cff8acc768a3867dbfdb2d574530d66f242102b0310e0"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A07_英文旋律导唱_Seed.wav",
+    "bytes": 1440044,
+    "sha256": "bf4213b6b8ddfb68edcded5a2111635072e9f66c5f702e018b544840acc232e3"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_A08_英文旋律导唱_Seed备选.wav",
+    "bytes": 1440044,
+    "sha256": "00c09627a235f9f57579b788fc20dbaa83b6389f653462b3ea665336b947deb4"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_R01_同侧看屏幕修正.png",
+    "bytes": 2926437,
+    "sha256": "728297e36a475c49fb62044d0c63971b3909aedc8b724004d03a71fcbdac5bfc"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_R02_吸入与巨杯修正.png",
+    "bytes": 3057178,
+    "sha256": "f0d8b92bc9c05640011a4f5eeae8bd39b17e10fafdf8ac4da1f8f2e0babb0e6f"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_R03_柠檬尺度修正.png",
+    "bytes": 3001689,
+    "sha256": "8e430803a60f6be9be29528f3ffed42ef9244627bc891a645b4cd6f021852449"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_R08_背影换装一.png",
+    "bytes": 2961058,
+    "sha256": "55138b1f19ec3e7bdc44f099cd592f6cdf1ea1a7a8c4b36c97abcab6e7db6d94"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_R09_背影换装二.png",
+    "bytes": 3318982,
+    "sha256": "7e3280c840b839abc2ef8fded228ccf917722e223d3c25337aa54e55d8ef64d0"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_R10_课堂空间环绕.png",
+    "bytes": 2900943,
+    "sha256": "d1abe22910a38e063cf48f1aaff14e5173e526ec34d9c26019aa1b07612348e1"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/十一版静帧_R12_巨杯落地连续构图.png",
+    "bytes": 3320710,
+    "sha256": "71b615b61baf04438f4f6690753b65b17ac302cd76155daf3b4d1fd4a3e6a271"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/巨杯杯柄场景一致性参考.png",
+    "bytes": 675730,
+    "sha256": "d224b0d6dc6c09c25d335868d3998a43b9c468a2a0bb6a029fa0ce53b59bf9b6"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/原始素材/背影构图参考.png",
+    "bytes": 860160,
+    "sha256": "00e12d2db1c11f1d3c31612caa6b2b6f95152b58874c358cf97b4b357d24577b"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/01_1.jpg",
+    "bytes": 152655,
+    "sha256": "3a08a2f0bcc0c0b96cd5cee66edcdac781cc4fb98e01bb64a432cd3fc6235c0d"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/01_2.jpg",
+    "bytes": 117238,
+    "sha256": "c107bc3db42cc08514c4cfe75d97970868dd74229a3f221a724a11f6d0cebd5d"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/01_3.jpg",
+    "bytes": 153223,
+    "sha256": "29fb29f0866aaa11ee68d9994aa16663f527c867fb3b25f9b5d51f9fc5bc728e"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/01_4.jpg",
+    "bytes": 140773,
+    "sha256": "ac626885623ed674783ba21a0214660eda8db9b383fc172280f0501ef9dad9f4"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/02_1.jpg",
+    "bytes": 179285,
+    "sha256": "7daee23f5eb8a27c02aaf3bc04ecd1770e296559c2cdf455e6999f6e5ca709a3"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/02_2.jpg",
+    "bytes": 148362,
+    "sha256": "dee58e5590499ae31c9d817a80b8e21bcf151b0728dd69110ecb3acc142ce88b"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/02_3.jpg",
+    "bytes": 176246,
+    "sha256": "2f41f05d0f5e7780b7b3f76008b7a45a1a59e74d7e6e96f83beac5bcd995d831"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/02_4.jpg",
+    "bytes": 180773,
+    "sha256": "f133427a34b4d994c1a695bfaa3cc49e8ae012b31ed353306299dac9a764c791"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/03_1.jpg",
+    "bytes": 142186,
+    "sha256": "ea36d29bd90c80779eef6a7db17e63d462716ef071c4fb642c06b933f63691c6"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/03_2.jpg",
+    "bytes": 139524,
+    "sha256": "56532d0894bbf58bcfa3843f09378fb93b815194786a0b89148ec815508d21bf"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/03_3.jpg",
+    "bytes": 149354,
+    "sha256": "2d533496e4953cbc2fe0001f15506584e63f77900bca7512ecefdb582c725187"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/03_4.jpg",
+    "bytes": 149758,
+    "sha256": "0815645b8f1400011c23c426176321f77bf47280de88a3aa4f788c6f22852cd7"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/04_1.jpg",
+    "bytes": 180391,
+    "sha256": "a3c838b312eff8b9a977a2e3936f8aebc15d973cb3641038626799ad58d75aa0"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/04_2.jpg",
+    "bytes": 182134,
+    "sha256": "5ec77bd17e2ab33feec1a97bf554a4fee36cb8b4943b00469a6d980500af7179"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/04_3.jpg",
+    "bytes": 172607,
+    "sha256": "1d36daa4cbb24bf9e668911c73d7cb18eaab9cc44cacbeb469be367f79fcf5a3"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/04_4.jpg",
+    "bytes": 121801,
+    "sha256": "11db8264e8de16688e552562b8eb92959fb66a4e64c950ae02cf5cfe6ff28d0b"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/05_1.jpg",
+    "bytes": 168322,
+    "sha256": "9bd1d0e3d311bf7d8ac1b19ecd43c373195fb2fc84b68c0dee979837bcd8e0e4"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/05_2.jpg",
+    "bytes": 133278,
+    "sha256": "ca50971c6573c6423fc6b49887271fcad1a6935a18956b3bd295dbef6800141c"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/05_3.jpg",
+    "bytes": 175694,
+    "sha256": "10fa9e2fdd8ade48689255a510b34d67232cd17910d9e16dfe89ddd87894ec87"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/05_4.jpg",
+    "bytes": 242077,
+    "sha256": "9d46434cdadcafcc8d8c01751e053ad9d90541cffa28228ea5ba5f715e6b7ae4"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/06_1.jpg",
+    "bytes": 163361,
+    "sha256": "7c75b93787e7480c02a78183228e1b01fd4a4a4345148ecfc2be70de8c038af1"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/06_2.jpg",
+    "bytes": 166763,
+    "sha256": "c13de0caa1754b6b9043ac3791d89d884154ddcdd3f0133de41cd84c45e16f99"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/06_3.jpg",
+    "bytes": 190413,
+    "sha256": "008f67afddec6938211d942456ca19bd8b194c8b8a8a1dff7b0d1d23e78d1117"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/06_4.jpg",
+    "bytes": 190317,
+    "sha256": "bc1784755cdd889483ae8ddd4d35c9083c519e1b51fd4772b576b1b79a3ed133"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/07_1.jpg",
+    "bytes": 202947,
+    "sha256": "2abafe40e6e39ed608c135eac40943465f551cf11afd33b303c80ca69bf82840"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/07_2.jpg",
+    "bytes": 189563,
+    "sha256": "36d2df9a809e390e8dac9e2ebbd222ca41809670d4c1d03730e2b0912c2ac8ab"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/07_3.jpg",
+    "bytes": 213515,
+    "sha256": "b32156d594fdab6010b0422cdcedf0cd3b9a3305c2ff7aa523c6c18d104ab907"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/07_4.jpg",
+    "bytes": 179449,
+    "sha256": "da1125f5e5e4dce0b396a8e7dc83affcc3d810e367833de15067bb984eb2dabc"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/08_1.jpg",
+    "bytes": 163244,
+    "sha256": "5dca1037f8828bb10c26de4cfacd6c0006fc4d2d834f93776b23f48e2ad39957"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/08_2.jpg",
+    "bytes": 126114,
+    "sha256": "5c519082dc64947c3bc45290d213d9e6f5ba0bfd6ba49f2038378a88277714d3"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/08_3.jpg",
+    "bytes": 129773,
+    "sha256": "b968999af10ef4d7382ed6be28d0712d2c9e4647b391c87abd4c0d6286b09356"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/08_4.jpg",
+    "bytes": 149691,
+    "sha256": "879cb1fe1c4d8f0a660efc169857cfe9c9dfe6aa3b0c1e2151f9471576ec4b35"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/09_1.jpg",
+    "bytes": 175601,
+    "sha256": "4b172a8092df8b5126b72e27b9487c2ce462d6b7f8ae6d80a6f52cc3bf1e13a7"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/09_2.jpg",
+    "bytes": 167235,
+    "sha256": "2fb10e221419a0eb95712c344d277ece76e0f7595039c230d16037858e058819"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/09_3.jpg",
+    "bytes": 145480,
+    "sha256": "1a91abb908e33fcca7cea8a82279498c801e90971e43f195620c067707c3a2c5"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/09_4.jpg",
+    "bytes": 211940,
+    "sha256": "eccc93b2b3d0538654fb6b280016ee4aa0d3b8e5f51f545b0870aa4626e55d29"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/10_1.jpg",
+    "bytes": 113124,
+    "sha256": "26f12d733a71aab756c44157043d60720dced75667d09e25ed3c711e6dd4f629"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/10_2.jpg",
+    "bytes": 122275,
+    "sha256": "d8bf1da358487dffff0ef6acae4ae12a727aecad23714b72917e3c0c6022a577"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/10_3.jpg",
+    "bytes": 136933,
+    "sha256": "c52c85ffbb95c6faeb825fd72b94d0ac511876da4e13d7bcca522b2a23f59bd9"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片/10_4.jpg",
+    "bytes": 103719,
+    "sha256": "54c6646b1863f9805c6906b10bcab1a9a16cb16fbce44c34da042aee52392de0"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/图片来源与处理.json",
+    "bytes": 10912,
+    "sha256": "34464fc86af3be090e2db80aeb775396329957736db572b16d555b5c0ed402df"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/声音/完整小样混音.wav",
+    "bytes": 17280102,
+    "sha256": "80b07a8c64066f5458bc7345b729e1cd5fdd3eb911493191067e528f7b0e9363"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/声音/实拍前两句原声.wav",
+    "bytes": 791118,
+    "sha256": "03fe6ef8c24e51a4735125adf0c820d328e857c16343a1f6c1b76eff7ba2a1cb"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/声音/对白与英文导唱时间线.wav",
+    "bytes": 17280044,
+    "sha256": "f285d8c4bd05fd06661b85726c2157197eb629c900ffe45e57fab726e52825b4"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/声音/英文导唱_对齐两组八拍.wav",
+    "bytes": 2160044,
+    "sha256": "2e2940c1e1d9a650b98fbba59a8ec0d41254d7161077b174629293b47ba95a78"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/声音/配乐剪辑_追逐变奏.wav",
+    "bytes": 17280044,
+    "sha256": "cf3732516db688f48be8079b5ebbbc56daa0534d937e4bf2cb4296ecef7ca8b2"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/声音处理说明.json",
+    "bytes": 741,
+    "sha256": "9e539c87f19660058b8e2e22247de4c2281239c104060de16441f6a031d9a1e8"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/打开看_第十一版动态分镜对照.html",
+    "bytes": 54166,
+    "sha256": "2eeb1112a6d4651cf129dbee9878592a31f7c071d07be4c23abc15cd4e3ff4d9"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/第十一版脚本.json",
+    "bytes": 19524,
+    "sha256": "73b89ada15fe6dcb569b5e14e338cb3045d321f4400986071b450f5589ae86ca"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/精确剪辑时间表.json",
+    "bytes": 12906,
+    "sha256": "2a5dc610f3c965ce9236a1361321fb27e9e1826b17209584fcb1c297d45e6180"
+  },
+  {
+    "path": "outputs/片头第十一版_动态分镜/英文演唱设计.txt",
+    "bytes": 268,
+    "sha256": "424aa8aad87badf00b924aaa2a0af733db7060648262e9e93138808f45c03e8c"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/AI创作全能课_第十二版_60秒_480P_剪辑预览.mp4",
+    "bytes": 13841868,
+    "sha256": "2a551d9e49e5ca5054b584ebe2127a858238afee022c9c9b0b089b9d63ac83e4"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/剪辑时间表.json",
+    "bytes": 8037,
+    "sha256": "dea505746053053c357cc14c41ac6037a5afa142d4060d545398cbfdc87d13d9"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/原始素材/十二版_A_双30秒_480P样片.mp4",
+    "bytes": 16912484,
+    "sha256": "a0f5723f8790bd137948011d0c0b78c3bc8d2eef830471a0ad9870d344b76504"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/原始素材/十二版_B_双30秒_480P样片.mp4",
+    "bytes": 15264030,
+    "sha256": "d0653143ea5d5fc5baee378e7dc4fc82fe169d2fa1eb17c3236d1ba274c7f4ff"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/原始素材/实拍_镜像轻调色_仅前两句.mp4",
+    "bytes": 582066,
+    "sha256": "a1796330db4f34116cdbc46b911789263f7cb785de0062035f2ab4cdc2d8b80b"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/声音/配乐剪辑_追逐变奏.wav",
+    "bytes": 17280044,
+    "sha256": "cf3732516db688f48be8079b5ebbbc56daa0534d937e4bf2cb4296ecef7ca8b2"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/打开看_第十二版60秒剪辑预览.html",
+    "bytes": 4899,
+    "sha256": "2f36bedb215af20bf89608ef29f59f6e91b31c53c2cbf8d42a636c3a30e060e6"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/提示词/A_实际提交提示词.txt",
+    "bytes": 8790,
+    "sha256": "e912e497163ac87df95003aa9a100f93bb0801ad1a5970226eabe3c6a2a170a6"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/提示词/B_实际提交提示词.txt",
+    "bytes": 9158,
+    "sha256": "00ca6906a80c076e87e9331ab39846f1169e89d90fa938a96ae3eb80d9e48528"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/检查/最终核验.json",
+    "bytes": 967,
+    "sha256": "be849342f0920bbbf215e78d2f2fbb2ab2feeee35a7255a0fc2eb5eaf58d80bb"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/角色资产/十二版_杯世界角色.png",
+    "bytes": 2998362,
+    "sha256": "067ee9c220265e1e53a35f9edd1c3a0cd2a941e085ce29ab997023697c06b9a4"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/角色资产/十二版_银白舞台角色.png",
+    "bytes": 2904120,
+    "sha256": "bce2ee65728193bc705ce2fa165b2073179c81023bfa1a865f9fb29b47a38a93"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/费用记录.json",
+    "bytes": 1095,
+    "sha256": "1f65d7fc4b736ff719c745a801acd0aac29abdf1a57c6fb409d113db2db6e58f"
+  },
+  {
+    "path": "outputs/片头第十二版_双30秒480P/预览封面.jpg",
+    "bytes": 26273,
+    "sha256": "b7ae3e965f4a2743312a338757bcf25da1312934e05e78a818e8a821a354dd8f"
+  },
+  {
+    "path": "outputs/片头第十版_追逐变奏对拍脚本/快切候选拍点.json",
+    "bytes": 3411,
+    "sha256": "ff37adeb93799136a675d395a39960995b78cc31878a852ea15bb3866ceb0fb0"
+  },
+  {
+    "path": "outputs/片头第十版_追逐变奏对拍脚本/第十版完整脚本_讨论稿.md",
+    "bytes": 20449,
+    "sha256": "1fc8cf39ab1f692ebb6236ec99e6d694f7fe23753cccb92f91e32eecd78e24c0"
+  },
+  {
+    "path": "references/原始节奏参考.MP4",
+    "bytes": 9146611,
+    "sha256": "36ec0a7c8a09a7964d1247b18d68194ec699c529aeb99475f9374622151583d4"
+  },
+  {
+    "path": "references/真实课堂原片.mp4",
+    "bytes": 4538967,
+    "sha256": "3849e531362c211e9f0c36dc6fdf2f9811aef773652f2d44b0269acbdd421c6f"
+  },
+  {
+    "path": "references/音乐感觉参考.MP4",
+    "bytes": 9128799,
+    "sha256": "0259c900840e3cf8bc4381e8f04c86f6ce4137861120f949c0d3685d7f848b05"
+  },
+  {
+    "path": "references/黄白原始人像.jpg",
+    "bytes": 1288987,
+    "sha256": "5ea2f0ed65af781b78d3dbe249da62093e7b5144cfc071b668f7cd742f7d58b9"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/A_标准视频结果.json",
+    "bytes": 14708,
+    "sha256": "59777a8429196845f9d8ef3c97b356948627318683e87ec36b744b69cf88568b"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/A_标准通道_实际提交提示词.txt",
+    "bytes": 8790,
+    "sha256": "e912e497163ac87df95003aa9a100f93bb0801ad1a5970226eabe3c6a2a170a6"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/A_标准通道最终配置.json",
+    "bytes": 14851,
+    "sha256": "6dbf1bb285fd94e504c29ec31bf673f60b9d9b1230237bf1b14811149acd91b5"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/A_检查/概览1.jpg",
+    "bytes": 207523,
+    "sha256": "8388f3d0d881de58e6339e928d3d25691de0e40366890ebdeab0af3b19ea6a94"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/A_检查/概览2.jpg",
+    "bytes": 218934,
+    "sha256": "3fa45ca098c1d19568b0e181c1ad7ddbdedfe11efcb71a093213ae179ca1bf3a"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/B_实际提交提示词.txt",
+    "bytes": 9158,
+    "sha256": "00ca6906a80c076e87e9331ab39846f1169e89d90fa938a96ae3eb80d9e48528"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/B_新版视频结果.json",
+    "bytes": 27809,
+    "sha256": "fab3ad13d730e7aa83d5b957e378ed77f8bf6c162acb281209bcf86d5307ddee"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/B_最终配置.json",
+    "bytes": 14132,
+    "sha256": "3f15975f0e29e1c7a78c0e6706db3145232ad33882bf5967e74d5bd55e023fba"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/B_检查/快切细查.jpg",
+    "bytes": 191549,
+    "sha256": "17dce1d696909120940be4b60d1efc44539d9c307fbab6e426da93d0d8ebeadc"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/edit.py",
+    "bytes": 4388,
+    "sha256": "5602b39e76c50d109b146e45a6629b8dd44309115cd334fae9688e1736dab046"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/fix_audio_timeline.py",
+    "bytes": 1412,
+    "sha256": "5c47461b139b432b369cdfe340513c33c48a4bc2a152f406806b4be8676c9b98"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/古装资产原图.png",
+    "bytes": 2985341,
+    "sha256": "eef93578dc79c120717f66b2722617b5d24dc2b5c2ffb0042a1f066cf7b01cc4"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/成片接点检查.jpg",
+    "bytes": 253770,
+    "sha256": "853359ce029d1b381cacecc1a2a7013fc4c4841b49a455ee023008708ea19182"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/最终成片上传结果.json",
+    "bytes": 384,
+    "sha256": "1855b802fcd732c4ff1088147edc75e73ce17d6df746f41dc9c152e67fe0a54c"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/最终画板节点核验.json",
+    "bytes": 596,
+    "sha256": "012f3b8c5a5663bd67c279658a338e6b95deae48ea3a91fda6ede09e9643b740"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/灰卫衣资产原图.png",
+    "bytes": 2319232,
+    "sha256": "19eec08e499ac20856d278956fc6eb77d8a98cec7b5b4b1608b67e0ca9b4a4b7"
+  },
+  {
+    "path": "work/片头十二版_双30秒480P/课堂资产原图.jpg",
+    "bytes": 57002,
+    "sha256": "d2910963025381af1457364cc135edd5257f673814f1463c5f48a75b8a107713"
+  },
+  {
+    "path": "work/片头十版/C曲实测.json",
+    "bytes": 13086,
+    "sha256": "f02c2611dfd1247405ae3d777b48ec779c6580636a3e160a3e178de765b389c3"
+  }
+]

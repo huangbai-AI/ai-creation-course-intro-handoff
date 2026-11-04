@@ -1,0 +1,668 @@
+[
+  {
+    "image": "01_1",
+    "source": "R01_同侧看屏幕修正",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "01_2",
+    "source": "R01_同侧看屏幕修正",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "01_3",
+    "source": "R01_同侧看屏幕修正",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "01_4",
+    "source": "R01_同侧看屏幕修正",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "02_1",
+    "source": "R02_吸入与巨杯修正",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "02_2",
+    "source": "R02_吸入与巨杯修正",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "02_3",
+    "source": "R02_吸入与巨杯修正",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "02_4",
+    "source": "R02_吸入与巨杯修正",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "03_1",
+    "source": "R03_柠檬尺度修正",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "03_2",
+    "source": "R03_柠檬尺度修正",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "03_3",
+    "source": "R03_柠檬尺度修正",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "03_4",
+    "source": "R03_柠檬尺度修正",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "04_1",
+    "source": "04_古装完整攻防",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "04_2",
+    "source": "04_古装完整攻防",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "04_3",
+    "source": "04_古装完整攻防",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "04_4",
+    "source": "04_古装完整攻防",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "05_1",
+    "source": "05_穿帘立即开唱",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "05_2",
+    "source": "05_穿帘立即开唱",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": true
+  },
+  {
+    "image": "05_3",
+    "source": "05_穿帘立即开唱",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "05_4",
+    "source": "05_穿帘立即开唱",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "06_1",
+    "source": "06_英文演唱与舞台回应",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": true
+  },
+  {
+    "image": "06_2",
+    "source": "06_英文演唱与舞台回应",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "06_3",
+    "source": "06_英文演唱与舞台回应",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": true
+  },
+  {
+    "image": "06_4",
+    "source": "06_英文演唱与舞台回应",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": true
+  },
+  {
+    "image": "07_1",
+    "source": "07_舞台绕背与太空停顿",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "07_2",
+    "source": "07_舞台绕背与太空停顿",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "07_3",
+    "source": "07_舞台绕背与太空停顿",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "07_4",
+    "source": "07_舞台绕背与太空停顿",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "08_1",
+    "source": "R08_背影换装一",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "08_2",
+    "source": "R08_背影换装一",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "08_3",
+    "source": "R08_背影换装一",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "08_4",
+    "source": "R08_背影换装一",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "09_1",
+    "source": "R09_背影换装二",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "09_2",
+    "source": "R09_背影换装二",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "09_3",
+    "source": "R09_背影换装二",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "09_4",
+    "source": "R09_背影换装二",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "10_1",
+    "source": "R10_课堂空间环绕",
+    "panel": 1,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "10_2",
+    "source": "R10_课堂空间环绕",
+    "panel": 2,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "10_3",
+    "source": "R10_课堂空间环绕",
+    "panel": 3,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "10_4",
+    "source": "R10_课堂空间环绕",
+    "panel": 4,
+    "source_resolution": [
+      2048,
+      1152
+    ],
+    "cropped_resolution": [
+      1024,
+      576
+    ],
+    "flipped": false
+  },
+  {
+    "image": "07_3",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "07_4",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "08_1",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "08_2",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "08_3",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "08_4",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "09_1",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "09_2",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "09_3",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "09_4",
+    "alignment": {
+      "hair_center_x": 512,
+      "hair_top_y": 20,
+      "nape_y": 346
+    },
+    "method": "crop_and_scale_only"
+  },
+  {
+    "image": "02_3",
+    "source": "R12_巨杯落地连续构图",
+    "panel": 1
+  },
+  {
+    "image": "02_4",
+    "source": "R12_巨杯落地连续构图",
+    "panel": 4
+  },
+  {
+    "image": "10_4",
+    "source": "实拍_镜像轻调色_仅前两句.mp4",
+    "frame": 0,
+    "purpose": "在静帧预演中与实拍起始画面准确衔接，未输入生成模型"
+  }
+]

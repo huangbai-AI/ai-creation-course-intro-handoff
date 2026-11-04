@@ -1,0 +1,27 @@
+{
+  "video": "AI创作全能课_第十二版_60秒_480P_剪辑预览.mp4",
+  "dimensions": "854x480",
+  "fps": 30,
+  "video_frames": 1800,
+  "duration_seconds": 60,
+  "decode_check": "通过",
+  "native_audio_timeline": "按每段实际帧数拼接为连续48kHz声轨，已修正分段音频编码引起的时间累积",
+  "real_voice_expected_start": 55.8667,
+  "real_voice_measured_start": 55.8624375,
+  "real_voice_error_ms": -4.2625,
+  "english_verified": [
+    "Dream it up, let AI take flight",
+    "A whole new world we bring to life"
+  ],
+  "raws_preserved": true,
+  "new_paid_generation_during_edit": false,
+  "actual_credit_spend": 1244,
+  "final_canvas_node": "v-e7EsXr3lFo",
+  "sha1": "9ab0e8061aa135b84aeda0f88f843e5c2f65ef64",
+  "remaining_issues": [
+    "杯柄出口未按脚本生成，而是独立门洞",
+    "古装战斗主角服装未正确切换",
+    "两段舞台灯光服装和演唱有差异",
+    "有效快切仅五种场景循环"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "approved_cap": 1250,
+  "authorization": "只做首轮，上限1250积分",
+  "balance_before": 12255,
+  "video_quote_each": 600,
+  "video_count": 2,
+  "image_quote_expected_each": 22,
+  "image_count": 2,
+  "expected_total": 1244,
+  "paid_calls_submitted": 4,
+  "no_paid_regeneration": true,
+  "image_calls_completed": 2,
+  "image_quote_actual_each": 22,
+  "status": "两条30秒成功，进入免费剪辑；不再生成",
+  "first_video_submission_result": "两条审核拒绝，官方返回power=0，未得到视频",
+  "rejected_task_ids": [
+    "20261101213803175852028",
+    "20261101213803494312028"
+  ],
+  "balance_after_images": 12211,
+  "diagnosis": "旧CLI缺少新版素材凭证传递；改用官方1.2.0进行正常核验",
+  "A_draft_failed_cost": 0,
+  "A_draft_failed_category": "INVALID_PARAMS",
+  "B_draft_running": false,
+  "balance_after_B_submission": 11611,
+  "remaining_for_A": 600,
+  "expected_final_total": 1244,
+  "balance_final_verified": 11011,
+  "actual_total": 1244,
+  "successful_video_count": 2,
+  "successful_video_cost_each": 600,
+  "failed_tasks_cost": 0
+}
